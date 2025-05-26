@@ -23,4 +23,4 @@ To request permission, contact: **equigley@coroposws.com**
 
 The Software is provided "as is", without warranty of any kind.  
 Coropos Web Services disclaims all warranties, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.  
-In no event shall SkyLox Systems be liable for any damages arising from the use or inability to use the Software.
+In no event shall Coropos Web Services be liable for any damages arising from the use or inability to use the Software.
